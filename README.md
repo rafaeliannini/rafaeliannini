@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao meu perfil do github 😁
 ## Sou graduando em Ciências da Computação pela PUC - Minas
-## Atualmente trabalhando em um novo projeto sobre House of The Dragons
  <div>
    <a href="https://github.com/rafaeliannini">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeliannini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,8 +10,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 </div>
  
