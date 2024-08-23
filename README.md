@@ -16,7 +16,7 @@
  
 <br>
  
-### Para entrar em contato comigo, minhas redes abaixo:
+### To get in contact with me:
  
 <div> 
   <a href="https://instagram.com/rafael.iannini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
