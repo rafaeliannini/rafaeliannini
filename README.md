@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao meu perfil do github 😁
-## Sou graduando em Ciências da Computação pela PUC - Minas
+## Welcome to my github profile 😁
+## Graduating in Computer Science from PUC Minas
  <div>
    <a href="https://github.com/rafaeliannini">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeliannini&show_icons=true&theme=tokyonight&include_all_commits=true"/>
